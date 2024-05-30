@@ -1,7 +1,7 @@
 {
   "name": "Scrim-s06486ct9j",
   "description": "https://v2.scrimba.com/s06486ct9j",
-  "homepage": "http://SteamLucy19.github.io/quizzical",
+  "homepage": "https://SteamLucy19.github.io/quizzical",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
